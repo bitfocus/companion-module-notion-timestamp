@@ -1,6 +1,6 @@
 {
 	"name": "notion-timestamp",
-	"version": "2.1.0",
+	"version": "2.1.1",
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/bitfocus/companion-module-notion-timestamp.git"
