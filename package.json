@@ -1,6 +1,6 @@
 {
 	"name": "notion-timestamp",
-	"version": "2.1.0",
+	"version": "2.1.1",
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/bitfocus/companion-module-notion-timestamp.git"
@@ -12,14 +12,14 @@
 	},
 	"license": "MIT",
 	"dependencies": {
-		"@companion-module/base": "~1.8",
+		"@companion-module/base": "~1.15.1",
 		"got": "^13.0.0"
 	},
 	"devDependencies": {
-		"@companion-module/tools": "^2.8.0"
+		"@companion-module/tools": "~2.9.1"
 	},
 	"prettier": "@companion-module/tools/.prettierrc.json",
 	"engines": {
-		"node": ">=18.0.0"
+		"node": "^26.0.0"
 	}
 }
